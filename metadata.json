@@ -1,1 +1,5 @@
-https://raw.githubusercontent.com/solavenb3/one-coin-metadata/main/metadata.json
+{
+  "name": "ONE coin",
+  "symbol": "ONE",
+  "uri": "https://raw.githubusercontent.com/solavenb3/one-coin-metadata/main/metadata.json"
+}
