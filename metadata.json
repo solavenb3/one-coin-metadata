@@ -1,5 +1,7 @@
 {
   "name": "ONE coin",
   "symbol": "ONE",
+  "description": "The cryptocurrency with the highest unit price among all cryptocurrencies",
+  "image": "https://raw.githubusercontent.com/solavenb3/one-coin-metadata/main/image.png",
   "uri": "https://raw.githubusercontent.com/solavenb3/one-coin-metadata/main/metadata.json"
 }
