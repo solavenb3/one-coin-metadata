@@ -3,20 +3,5 @@
   "symbol": "ONE",
   "description": "The cryptocurrency with the highest unit price among all cryptocurrencies",
   "image": "https://raw.githubusercontent.com/solavenb3/one-coin-metadata/main/image.png",
-  "seller_fee_basis_points": 0, 
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/solavenb3/one-coin-metadata/main/image.png",
-        "type": "image/png" 
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "28Jh9wyLuDh1GgmincLg1G7sGLa888HbZWR3pttb6Fh6", 
-        "share": 100
-      }
-    ]
-  }
+  "uri": "https://raw.githubusercontent.com/solavenb3/one-coin-metadata/main/metadata.json"
 }
